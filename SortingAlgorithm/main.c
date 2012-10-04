@@ -12,7 +12,9 @@
  * 
  */
 int main(int argc, char** argv) {
-    printf("Ahoj");
+    printf("Pepa");
+    
+    printf("Mam rad maso");
     return (EXIT_SUCCESS);
 }
 
